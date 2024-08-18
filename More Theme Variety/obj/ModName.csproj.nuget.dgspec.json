@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ming Thao\\Desktop\\Plateup Mod\\PlateUpModdingTemplate-main\\ModName.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ming Thao\\Desktop\\Plateup Mod\\PlateUpModdingTemplate-main\\ModName.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ming Thao\\Desktop\\Plateup Mod\\PlateUpModdingTemplate-main\\ModName.csproj",
+        "projectName": "ModName-Workshop",
+        "projectPath": "C:\\Users\\Ming Thao\\Desktop\\Plateup Mod\\PlateUpModdingTemplate-main\\ModName.csproj",
+        "packagesPath": "C:\\Users\\Ming Thao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ming Thao\\Desktop\\Plateup Mod\\PlateUpModdingTemplate-main\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ming Thao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Yariazen.PlateUp.ModBuildUtilities": {
+              "target": "Package",
+              "version": "[1.8.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

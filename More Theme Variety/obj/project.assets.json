@@ -1,0 +1,81 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Yariazen.PlateUp.ModBuildUtilities/1.8.3": {
+        "type": "package",
+        "build": {
+          "build/Yariazen.PlateUp.ModBuildUtilities.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yariazen.PlateUp.ModBuildUtilities/1.8.3": {
+      "sha512": "hs63F1PYReBKBfYDVaZuvk+hiEMZsFWDmI3NT6qmeV101EhelqBYofvZZp9QxlnqqDhADqUuBbIZrEsI7KJBYg==",
+      "type": "package",
+      "path": "yariazen.plateup.modbuildutilities/1.8.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Yariazen.PlateUp.ModBuildUtilities.dll",
+        "build/Yariazen.PlateUp.ModBuildUtilities.targets",
+        "yariazen.plateup.modbuildutilities.1.8.3.nupkg.sha512",
+        "yariazen.plateup.modbuildutilities.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Yariazen.PlateUp.ModBuildUtilities >= 1.8.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ming Thao\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ming Thao\\Desktop\\Plateup Mod\\More Theme Variety\\MoreThemeVariety.csproj",
+      "projectName": "MoreThemeVariety-Workshop",
+      "projectPath": "C:\\Users\\Ming Thao\\Desktop\\Plateup Mod\\More Theme Variety\\MoreThemeVariety.csproj",
+      "packagesPath": "C:\\Users\\Ming Thao\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ming Thao\\Desktop\\Plateup Mod\\More Theme Variety\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ming Thao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "dependencies": {
+          "Yariazen.PlateUp.ModBuildUtilities": {
+            "target": "Package",
+            "version": "[1.8.3, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\Ming Thao\Desktop\Plateup Mod\More Theme Variety\bin\Debug\net472\MoreThemeVariety-Workshop.dll
+C:\Users\Ming Thao\Desktop\Plateup Mod\More Theme Variety\bin\Debug\net472\MoreThemeVariety-Workshop.pdb
+C:\Users\Ming Thao\Desktop\Plateup Mod\More Theme Variety\obj\Debug\net472\MoreThemeVariety.csproj.AssemblyReference.cache
+C:\Users\Ming Thao\Desktop\Plateup Mod\More Theme Variety\obj\Debug\net472\MoreThemeVariety.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ming Thao\Desktop\Plateup Mod\More Theme Variety\obj\Debug\net472\MoreThemeVariety.AssemblyInfoInputs.cache
+C:\Users\Ming Thao\Desktop\Plateup Mod\More Theme Variety\obj\Debug\net472\MoreThemeVariety.AssemblyInfo.cs
+C:\Users\Ming Thao\Desktop\Plateup Mod\More Theme Variety\obj\Debug\net472\MoreThemeVariety.csproj.CoreCompileInputs.cache
+C:\Users\Ming Thao\Desktop\Plateup Mod\More Theme Variety\obj\Debug\net472\MoreThemeVariety-Workshop.dll
+C:\Users\Ming Thao\Desktop\Plateup Mod\More Theme Variety\obj\Debug\net472\MoreThemeVariety-Workshop.pdb

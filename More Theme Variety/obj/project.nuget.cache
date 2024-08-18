@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZzdhYU+b5vowMLwdo73bu0X0dZrB3a/zwm96sYINhNpx33uwpTc1ptcL3faWYoInV1znpQtlTfKDN0hewCg9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ming Thao\\Desktop\\Plateup Mod\\More Theme Variety\\MoreThemeVariety.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ming Thao\\.nuget\\packages\\yariazen.plateup.modbuildutilities\\1.8.3\\yariazen.plateup.modbuildutilities.1.8.3.nupkg.sha512"
+  ],
+  "logs": []
+}
